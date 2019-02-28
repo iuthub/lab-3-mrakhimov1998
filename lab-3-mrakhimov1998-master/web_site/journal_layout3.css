@@ -1,0 +1,35 @@
+body{
+	background-image: url("http://www.cs.washington.edu/education/courses/190m/09sp/labs/2-journal/images/background.gif");
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#full{
+	background-color: white;
+	border: 5px green solid;
+}
+#header{
+	text-align: right;
+	border: 5px red solid;
+}
+
+#header2{
+	border: 5px orange solid;
+}
+
+.one{
+	border: 5px blue solid;
+	padding: 5px;
+	background-color: #E8FBFB;
+	
+	margin-top: 10px;
+}
+.one img{
+	float: right;
+}
+.data{
+	border: 5px purple solid;
+}
+.spacer{
+	clear: right;
+}

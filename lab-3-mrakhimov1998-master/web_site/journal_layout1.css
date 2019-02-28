@@ -1,0 +1,16 @@
+#full{
+	border: 5px green solid;
+}
+#header{
+	border: 5px red solid;
+}
+
+#header2{
+	border: 5px orange solid;
+}
+.one{
+	border: 5px blue solid;
+}
+.data{
+	border: 5px purple solid;
+}
